@@ -1,5 +1,5 @@
 # bfrag_cardiolipin
-Code, data and analysis for my manuscript project characterizing *Bacteroides fragilis'* cardiolipin synthases
+Code/analysis and data for my manuscript project characterizing *Bacteroides fragilis'* cardiolipin synthases
 
 **Title:** Two cardiolipin synthases in *Bacteroides fragilis* have non-redundant roles in membrane stress resistance, intracellular ion homeostasis and lipid biosynthesis
 
