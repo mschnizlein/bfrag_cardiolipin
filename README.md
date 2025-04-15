@@ -1,7 +1,7 @@
 # bfrag_cardiolipin
 Code/analysis and data for my manuscript project characterizing *Bacteroides fragilis'* cardiolipin synthases
 
-**Title:** Two cardiolipin synthases in *Bacteroides fragilis* have non-redundant roles in membrane stress resistance, intracellular ion homeostasis and lipid biosynthesis
+**Title:** Non-redundant cardiolipin synthases support membrane integrity and stress resilience in *Bacteroides fragilis*
 
 **Authors:** Matthew K. Schnizlein1 (ORCiD: 0000-0002-0797-8357), Bong Jin Hong1,2 (ORCiD: 0000-0003-2992-9617), Jennifer N.T. Nguyen3 (ORCiD: ), Katarina Jones4,5 (ORCiD: 0000-0003-3769-8599), Aretha Fiebig1,6 (ORCiD: 0000-0002-0612-5029), Shawn R. Campagna4,5 (ORCiD: 0000-0001-6809-3862), Marcy J. Balunas3 (ORCiD: 0000-0003-2374-4048), Thomas O’Halloran1,2,7 (ORCiD: 0000-0001-8732-5059), Sean Crosson1,6,* (ORCiD: 0000-0002-1727-322X)
 
