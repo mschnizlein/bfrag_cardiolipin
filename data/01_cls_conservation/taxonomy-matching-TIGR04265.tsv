@@ -1,0 +1,158 @@
+Accession	Source Database	Name	Parent	Children	Number of Entries	Number of Proteins
+817	uniprot	Bacteroides fragilis	816	1339281,1339278,1263047,1339307,1339288,1263046,1339273,1339326,1339332,1339282,1339287,1339290,1339269,1339284,1339270,1339304,1339318,1339324,1339327,1339309,1339272,1339302,997878,1339295,1339312,1339317,1339329,1339331,1339336,1339291,1422847,1339277,1339339,1073387,1339338,1339316,1339301,1339303,1339292,1339321,1339335,1339296,1339313,272559,1339310,1339322,1339280,1339299,1339305,997880,1339297,1339298,1339325,1339334,1339285,1339330,1339293,1308728,1073386,1339283,1339320,1073388,862962,1339340,997882,1339289,1339276,457424,1339333,997881,1339323,1235816,1339294,295405,997879,1339337,1339311,1339286,1339279,1339300,1339328,1339319,1339315,997883,1339271,1339314,1339306,1339308,1339275,1339274	1	40
+820	uniprot	Bacteroides uniformis	816	1263055,1339349,411479,1339348,1422843,997890,997889,1235787	1	28
+28116	uniprot	Bacteroides ovatus	816	1339347,997886,411476,1339346,1263050,1379690,665954,997885,702443	1	17
+371601	uniprot	Bacteroides xylanisolvens	816	657309,702447,702444,997892,1422842	1	21
+818	uniprot	Bacteroides thetaiotaomicron	816	1422848,1263054,1235785,226186,1422836	1	22
+29523	uniprot	Bacteroides sp.	2646097		1	20
+246787	uniprot	Bacteroides cellulosilyticus	816	1268240,1263038,997874,1357381,537012	1	10
+329854	uniprot	Bacteroides intestinalis	816	1263048,471870,1263049,702442	1	14
+46506	uniprot	Bacteroides stercoris	816	1263053,449673,1073351	1	19
+47678	uniprot	Bacteroides caccae	816	1263037,1357379,411901,997873	1	12
+28111	uniprot	Bacteroides eggerthii	816	483216,1263043,665953	1	8
+162156	uniprot	uncultured Bacteroides sp.	139043		1	7
+626929	uniprot	Bacteroides clarus	816	762984,1263039	1	10
+338188	uniprot	Bacteroides finegoldii	816	997888,1263045,483215	1	7
+310300	uniprot	Bacteroides pyogenes	816	1235809,1321819,1121100,1235813	1	8
+85831	uniprot	Bacteroides acidifaciens	816	1235814	1	5
+626931	uniprot	Bacteroides oleiciplenus	816	742727	1	4
+291644	uniprot	Bacteroides salyersiae	816	997887,1121101	1	4
+1133319	uniprot	Bacteroides reticulotermitis	816	1445607	1	4
+291645	uniprot	Bacteroides nordii	816	1203608,997884	1	4
+457393	uniprot	Bacteroides sp. 4_1_36	2646097		1	3
+871324	uniprot	Bacteroides stercorirosoris	816	1236514	1	2
+28113	uniprot	Bacteroides heparinolyticus	816	888058	1	6
+477666	uniprot	Bacteroides graminisolvens	816	1121097	1	4
+674529	uniprot	Bacteroides faecis	816	1077285,1263044	1	2
+997874	uniprot	Bacteroides cellulosilyticus CL02T12C19	246787		1	2
+1796613	uniprot	Bacteroides caecimuris	816		1	4
+2937417	uniprot	Bacteroides muris (ex Fokt et al. 2023)	816		1	3
+469590	uniprot	Bacteroides sp. 2_2_4	2646097		1	2
+2302925	uniprot	Bacteroides sp. AF32-8BH	2646097		1	2
+537012	uniprot	Bacteroides cellulosilyticus DSM 14838	246787		1	2
+742727	uniprot	Bacteroides oleiciplenus YIT 12058	626931		1	2
+997886	uniprot	Bacteroides ovatus CL03T12C18	28116		1	2
+2292957	uniprot	Bacteroides sp. OF03-11BH	2646097		1	2
+2292194	uniprot	Bacteroides sp. AF27-33	2646097		1	2
+2292282	uniprot	Bacteroides sp. OM05-10AA	2646097		1	2
+1339327	uniprot	Bacteroides fragilis str. S36L11	817		1	2
+457387	uniprot	Bacteroides sp. 1_1_30	2646097		1	2
+556259	uniprot	Bacteroides sp. D2	2646097		1	2
+702447	uniprot	Bacteroides xylanisolvens SD CC 1b	371601		1	2
+1339316	uniprot	Bacteroides fragilis str. 3998T(B)3	817		1	2
+1739298	uniprot	Bacteroides sp. HMSC067B03	2646097		1	2
+1339280	uniprot	Bacteroides fragilis str. 2-F-2 #4	817		1	2
+1339337	uniprot	Bacteroides fragilis str. 1007-1-F #3	817		1	2
+1739517	uniprot	Bacteroides sp. HMSC073E02	2646097		1	2
+2715212	uniprot	Bacteroides faecium	816		1	2
+457389	uniprot	Bacteroides sp. 3_1_13	2646097		1	2
+585544	uniprot	Bacteroides sp. D22	2646097		1	2
+2292193	uniprot	Bacteroides sp. AF26-7BH	2646097		1	2
+2292951	uniprot	Bacteroides sp. AM37-9	2646097		1	2
+471870	uniprot	Bacteroides intestinalis DSM 17393	329854		1	2
+2291999	uniprot	Bacteroides sp. AF39-11AC	2646097		1	2
+1339311	uniprot	Bacteroides fragilis str. 3783N1-8	817		1	2
+1445607	uniprot	Bacteroides reticulotermitis JCM 10512	1133319		1	2
+1235785	uniprot	Bacteroides thetaiotaomicron dnLKV9	818		1	2
+1339314	uniprot	Bacteroides fragilis str. 3976T8	817		1	2
+226186	uniprot	Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / JCM 5827 / CCUG 10774 / NCTC 10582 / VPI-5482 / E50)	818		1	3
+469585	uniprot	Bacteroides sp. 1_1_14	2646097		1	2
+1078089	uniprot	Bacteroides sp. HPS0048	2646097		1	2
+469588	uniprot	Bacteroides sp. 2_1_22	2646097		1	2
+1339315	uniprot	Bacteroides fragilis str. 3988T(B)14	817		1	2
+2302926	uniprot	Bacteroides sp. AM56-10ce	2646097		1	2
+997892	uniprot	Bacteroides xylanisolvens CL03T12C04	371601		1	2
+2447885	uniprot	Bacteroides faecalis	816		1	2
+93974	uniprot	Bacteroides sp. AR20	2646097		1	2
+411479	uniprot	Bacteroides uniformis (strain ATCC 8492 / DSM 6597 / CCUG 4942 / CIP 103695 / JCM 5828 / KCTC 5204 / NCTC 13054 / VPI 0061)	820		1	1
+295405	uniprot	Bacteroides fragilis (strain YCH46)	817		1	2
+997883	uniprot	Bacteroides fragilis CL07T12C05	817		1	2
+997887	uniprot	Bacteroides salyersiae CL02T12C01	291644		1	2
+997873	uniprot	Bacteroides caccae CL03T12C61	47678		1	2
+2292938	uniprot	Bacteroides sp. AM16-13	2646097		1	2
+2162637	uniprot	Bacteroides sp. PHL 2737	2646097		1	2
+2292942	uniprot	Bacteroides sp. AM23-12	2646097		1	2
+483215	uniprot	Bacteroides finegoldii DSM 17565	338188		1	2
+997881	uniprot	Bacteroides fragilis CL05T12C13	817		1	2
+657309	uniprot	Bacteroides xylanisolvens XB1A	371601		1	2
+997884	uniprot	Bacteroides nordii CL02T12C05	291645		1	2
+1263038	uniprot	Bacteroides cellulosilyticus CAG:158	246787		1	2
+2292956	uniprot	Bacteroides sp. CF01-10NS	2646097		1	2
+2292915	uniprot	Bacteroides sp. AF15-14LB	2646097		1	2
+862962	uniprot	Bacteroides fragilis (strain 638R)	817		1	2
+272559	uniprot	Bacteroides fragilis (strain ATCC 25285 / DSM 2151 / CCUG 4856 / JCM 11019 / NCTC 9343 / Onslow)	817		1	2
+2594500	uniprot	Bacteroides sp. HF-5092	2646097		1	2
+1339349	uniprot	Bacteroides uniformis str. 3978 T3 ii	820		1	2
+2292002	uniprot	Bacteroides sp. AM16-24	2646097		1	2
+2292921	uniprot	Bacteroides sp. AF20-13LB	2646097		1	2
+2292924	uniprot	Bacteroides sp. AF25-38AC	2646097		1	2
+997888	uniprot	Bacteroides finegoldii CL09T03C10	338188		1	2
+2292952	uniprot	Bacteroides sp. AM41-16	2646097		1	2
+2292955	uniprot	Bacteroides sp. AM54-2NS	2646097		1	2
+2292953	uniprot	Bacteroides sp. AM44-19	2646097		1	2
+871325	uniprot	Bacteroides faecichinchillae	816	1236513	1	2
+1262750	uniprot	Bacteroides sp. CAG:754	2646097		1	2
+2650157	uniprot	Bacteroides zhangwenhongii	816		1	2
+1965580	uniprot	Bacteroides sp. An19	2646097		1	2
+1235787	uniprot	Bacteroides uniformis dnLKV2	820		1	2
+2292936	uniprot	Bacteroides sp. AF39-16AC	2646097		1	2
+2292922	uniprot	Bacteroides sp. AF25-17LB	2646097		1	2
+763034	uniprot	Bacteroides fluxus YIT 12057	626930		1	2
+2292932	uniprot	Bacteroides sp. AF35-22	2646097		1	2
+1262737	uniprot	Bacteroides sp. CAG:189	2646097		1	2
+665953	uniprot	Bacteroides eggerthii 1_2_48FAA	28111		1	2
+2292192	uniprot	Bacteroides sp. AF16-49	2646097		1	2
+2292949	uniprot	Bacteroides sp. AM30-16	2646097		1	2
+1896974	uniprot	Bacteroides sp. 43_108	2646097		1	2
+2292931	uniprot	Bacteroides sp. AF34-31BH	2646097		1	2
+2292928	uniprot	Bacteroides sp. AF29-11	2646097		1	2
+2292950	uniprot	Bacteroides sp. AM32-11AC	2646097		1	2
+1965613	uniprot	Bacteroides sp. An269	2646097		1	2
+449673	uniprot	Bacteroides stercoris ATCC 43183	46506		1	2
+93975	uniprot	Bacteroides sp. AR29	2646097		1	2
+1897051	uniprot	Bacteroides sp. 43_46	2646097		1	2
+1965640	uniprot	Bacteroides sp. An51A	2646097		1	2
+1321819	uniprot	Bacteroides pyogenes F0041	310300		1	2
+1263037	uniprot	Bacteroides caccae CAG:21	47678		1	2
+2528203	uniprot	Bacteroides sp. A1C1	2646097		1	2
+2516960	uniprot	Bacteroides muris (ex Afrizal et al. 2022)	816		1	2
+2292283	uniprot	Bacteroides sp. OM05-12	2646097		1	2
+1073351	uniprot	Bacteroides stercoris CC31F	46506		1	2
+2755405	uniprot	Bacteroides sp. CACC 737	2646097		1	2
+1121100	uniprot	Bacteroides pyogenes DSM 20611 = JCM 6294	310300		1	2
+1121097	uniprot	Bacteroides graminisolvens DSM 19988 = JCM 15093	477666		1	2
+1235809	uniprot	Bacteroides pyogenes JCM 6292	310300		1	2
+2292285	uniprot	Bacteroides sp. OM08-17BH	2646097		1	2
+762984	uniprot	Bacteroides clarus YIT 12056	626929		1	2
+483218	uniprot	[Bacteroides] pectinophilus ATCC 43243	384638		1	1
+693979	uniprot	Bacteroides helcogenes (strain ATCC 35417 / DSM 20613 / JCM 6297 / CCUG 15421 / P 36-108)	290053		1	2
+1297750	uniprot	Bacteroides luti	816		1	1
+2292954	uniprot	Bacteroides sp. AM51-7	2646097		1	1
+1965620	uniprot	Bacteroides sp. An279	2646097		1	2
+2292284	uniprot	Bacteroides sp. OM08-11	2646097		1	2
+2292281	uniprot	Bacteroides sp. OF04-15BH	2646097		1	1
+1263039	uniprot	Bacteroides clarus CAG:160	626929		1	2
+1262744	uniprot	Bacteroides sp. CAG:633	2646097		1	2
+2292001	uniprot	Bacteroides sp. AM10-21B	2646097		1	2
+1262747	uniprot	Bacteroides sp. CAG:702	2646097		1	2
+1262740	uniprot	Bacteroides sp. CAG:462	2646097		1	2
+1263043	uniprot	Bacteroides eggerthii CAG:109	28111		1	2
+1965632	uniprot	Bacteroides sp. An322	2646097		1	2
+1262739	uniprot	Bacteroides sp. CAG:443	2646097		1	2
+1262741	uniprot	Bacteroides sp. CAG:530	2646097		1	1
+1262752	uniprot	Bacteroides sp. CAG:875	2646097		1	2
+1262749	uniprot	Bacteroides sp. CAG:714	2646097		1	2
+2838468	uniprot	Candidatus Bacteroides avicola	816		1	2
+2838475	uniprot	Candidatus Bacteroides pullicola	816		1	2
+679937	uniprot	Bacteroides coprosuis DSM 18011	151276		1	2
+2838472	uniprot	Candidatus Bacteroides merdavium	816		1	1
+1262735	uniprot	Bacteroides sp. CAG:1076	2646097		1	2
+2838471	uniprot	Candidatus Bacteroides intestinipullorum	816		1	1
+1263051	uniprot	Bacteroides pectinophilus CAG:437	384638		1	1
+2838469	uniprot	Candidatus Bacteroides intestinavium	816		1	2
+1262753	uniprot	Bacteroides sp. CAG:927	2646097		1	1
+2838473	uniprot	Candidatus Bacteroides merdigallinarum	816		1	2
+1896973	uniprot	Bacteroides sp. 41_26	2646097		1	2
+2838474	uniprot	Candidatus Bacteroides merdipullorum	816		1	2
+1702214	uniprot	Candidatus [Bacteroides] periocalifornicus	171558		1	1
+1896975	uniprot	Bacteroides sp. CAG:1060_57_27	2646097		1	1
